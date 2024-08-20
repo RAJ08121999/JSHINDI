@@ -1,0 +1,15 @@
+#box{
+    height: 100px;
+    width: 200px;
+    background-color: dodgerblue;
+    color: white;
+    border: 1px solid black;
+}
+.para{
+    color: red;
+    font-size: larger;
+}
+
+.newClass{
+    background-color: green;
+}
