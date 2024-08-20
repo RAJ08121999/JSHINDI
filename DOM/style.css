@@ -1,0 +1,26 @@
+h1{
+    background-color: aqua;
+    color: brown;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+p{
+    font-size: 20px;
+    color: white;
+}
+body{
+    background-color:blueviolet ;
+}
+
+.box{
+    height: 100px;
+    width: 200px;
+    border: 2px solid black ;
+    background-color: aqua;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
